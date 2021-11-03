@@ -1,0 +1,5 @@
+vars.auto.tfvars
+mykey.pub
+mykey
+.terraform.lock.hcl
+.terraform
